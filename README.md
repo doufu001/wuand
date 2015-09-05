@@ -1,2 +1,1 @@
-# wuand
-午安浏览器，看见更大的世界
+Across the Great Wall, we can reach every corner in the world
