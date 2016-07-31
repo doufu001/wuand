@@ -29,3 +29,23 @@ https://github.com/
 https://zh.wikipedia.org/
 
 https://medium.com/
+
+https://www.flickr.com/
+
+3.DMM及旗下网页游戏
+
+http://www.dmm.com/
+
+http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
+
+http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
+
+4.其它ACG类网站
+
+http://wikiwiki.jp/ 
+
+http://share.dmhy.org/
+
+http://www.gamer.com.tw/
+
+http://www.nicovideo.jp/
