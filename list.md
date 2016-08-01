@@ -12,11 +12,17 @@ https://mail.google.com/
 
 https://translate.google.com/
 
-https://www.android.com/
-
 https://www.youtube.com/
 
-二、其它知名网站
+##二。程序开发相关网站
+
+https://github.com/
+
+https://www.android.com/
+
+https://golang.org/
+
+##三、其它知名网站
 
 https://twitter.com/
 
@@ -24,15 +30,13 @@ https://www.facebook.com/
 
 https://www.instagram.com/
 
-https://github.com/
-
 https://zh.wikipedia.org/
 
 https://medium.com/
 
 https://www.flickr.com/
 
-##三、DMM及旗下网页游戏
+##四、DMM及旗下网页游戏
 
 http://www.dmm.com/
 
@@ -40,7 +44,7 @@ http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
 
 http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
 
-##四、其它ACG类网站
+##五、其它ACG类网站
 
 http://wikiwiki.jp/ 
 
@@ -54,7 +58,14 @@ https://soundcloud.com/
 
 http://www.pixiv.net/
 
-五、电商网站
+http://www.deviantart.com/
+
+##六、电商网站
 
 http://shop.nordstrom.com/
 
+##七、网盘
+
+http://uploader.jp/
+
+https://www.mediafire.com/
