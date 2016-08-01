@@ -1,6 +1,6 @@
-#午安浏览器支持网站汇总
+#午安浏览器支持网站列表
 
-1.Google及旗下网站
+##一、Google及旗下网站
 
 https://www.google.com/
 
@@ -16,7 +16,7 @@ https://www.android.com/
 
 https://www.youtube.com/
 
-2.其它知名网站
+二、其它知名网站
 
 https://twitter.com/
 
@@ -32,7 +32,7 @@ https://medium.com/
 
 https://www.flickr.com/
 
-3.DMM及旗下网页游戏
+##三、DMM及旗下网页游戏
 
 http://www.dmm.com/
 
@@ -40,7 +40,7 @@ http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
 
 http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
 
-4.其它ACG类网站
+##四、其它ACG类网站
 
 http://wikiwiki.jp/ 
 
@@ -49,3 +49,12 @@ http://share.dmhy.org/
 http://www.gamer.com.tw/
 
 http://www.nicovideo.jp/
+
+https://soundcloud.com/
+
+http://www.pixiv.net/
+
+五、电商网站
+
+http://shop.nordstrom.com/
+
