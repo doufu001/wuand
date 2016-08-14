@@ -6,7 +6,7 @@ https://www.google.com/
 
 https://www.google.com.hk/
 
-https://scholar.google.com.hk/
+https://scholar.google.com/
 
 https://mail.google.com/
 
