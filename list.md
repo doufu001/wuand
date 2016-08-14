@@ -60,6 +60,8 @@ http://www.pixiv.net/
 
 http://www.deviantart.com/
 
+http://www.getchu.com/
+
 ##六、电商网站
 
 http://shop.nordstrom.com/
