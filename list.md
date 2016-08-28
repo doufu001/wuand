@@ -2,11 +2,9 @@
 
 ##一、Google及旗下网站
 
-https://www.google.com/
+https://www.google.com/#hl=zh-cn
 
-https://www.google.com.hk/
-
-https://scholar.google.com/
+https://scholar.google.com/?hl=zh-CN
 
 https://mail.google.com/
 
@@ -14,7 +12,7 @@ https://translate.google.com/
 
 https://www.youtube.com/
 
-##二。程序开发相关网站
+##二、程序开发相关网站
 
 https://github.com/
 
@@ -40,9 +38,9 @@ https://www.flickr.com/
 
 http://www.dmm.com/
 
-http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
+http://www.dmm.com/netgame_s/kancolle/
 
-http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
+http://www.dmm.com/netgame_s/tohken/
 
 ##五、其它ACG类网站
 
@@ -71,3 +69,5 @@ http://shop.nordstrom.com/
 http://uploader.jp/
 
 https://www.mediafire.com/
+
+https://onedrive.live.com/
