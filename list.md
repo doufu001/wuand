@@ -1,6 +1,6 @@
 #午安浏览器支持网站列表
 
-##一、Google及旗下网站
+##一、Google及旗下网站（G+除外）
 
 https://www.google.com/#hl=zh-cn
 
@@ -10,7 +10,7 @@ https://mail.google.com/
 
 https://translate.google.com/
 
-https://www.youtube.com/
+https://www.youtube.com/ （无法上传）
 
 ##二、程序开发相关网站
 
@@ -22,9 +22,9 @@ https://golang.org/
 
 ##三、其它知名网站
 
-https://twitter.com/
+https://twitter.com/ （无法POST）
 
-https://www.facebook.com/
+https://www.facebook.com/ （无法POST）
 
 https://www.instagram.com/
 
