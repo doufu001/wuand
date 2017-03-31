@@ -2,16 +2,16 @@
 
 * Sercer: Ubuntu 14.04
 
-    apt-get update
+apt-get update
     
-    apt-get install git -y
+apt-get install git -y
     
-    git clone -b manyuser https://github.com/shadowsocksr/shadowsocksr.git
+git clone -b manyuser https://github.com/shadowsocksr/shadowsocksr.git
     
-    cd shadowsocksr
+cd shadowsocksr
     
-    bash initcfg.sh
+bash initcfg.sh
     
-    cd shadowsocks
+cd shadowsocks
     
-    python server.py -d start
+python server.py -d start
