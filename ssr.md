@@ -1,4 +1,6 @@
-Sercer: Aliyun HK Ubuntu 14.04
+# ShadowsocksR Config Guide
+
+Sercer: Ubuntu 14.04
 
 apt-get update
 
