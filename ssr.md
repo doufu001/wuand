@@ -1,6 +1,6 @@
 # ShadowsocksR Config Guide
 
-*Sercer: Ubuntu 14.04
+* Sercer: Ubuntu 14.04
 
 apt-get update
 
