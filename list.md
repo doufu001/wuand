@@ -78,6 +78,8 @@ GitBook：https://www.gitbook.com/
 
 Coursera：https://zh.coursera.org/
 
+Internet Archive：https://archive.org/
+
 #### 七、艺术类网站：
 
 DeviantArt：www.deviantart.com/
