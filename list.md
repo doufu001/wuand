@@ -36,7 +36,7 @@ Flickr：https://www.flickr.com/ （Lite版不支持）
 
 Tumblr：https://www.tumblr.com/ （Lite版不支持）
 
-Pinterest：https://www.pinterest.com/ （Lite版不支持）
+Pinterest：https://www.pinterest.com/ 
 
 Vimeo：https://vimeo.com/ （Lite版不支持）
 
