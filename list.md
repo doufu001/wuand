@@ -1,5 +1,7 @@
 # 午安浏览器支持网站列表
 
+目前所有版本均为lite版，请不要问哪个是非lite版的问题，谢谢。
+
 #### 一、Google及旗下网站（G+除外）
 
 谷歌：https://www.google.com/#hl=zh-cn
