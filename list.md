@@ -1,6 +1,6 @@
 # 午安浏览器支持网站列表
 
-目前所有版本均为lite版，请不要问哪个是非lite版的问题，谢谢。
+鉴于某些非技术因素，午安浏览器采用白名单制，只有白名单上的网站通过proxy，其它站点direct。
 
 #### 一、Google及旗下网站（G+除外）
 
@@ -20,27 +20,8 @@ Gmail：https://mail.google.com/
 
 #### 三、海外知名网站
 
-YouTube：https://www.youtube.com/  （Lite版不支持，非Lite版无法上传）
-
-Twitter：https://twitter.com/  （Lite版不支持，非Lite版无法POST）
-
-Facebook：https://www.facebook.com/ （Lite版不支持，非Lite版无法POST）
-
-Instagram：https://www.instagram.com/ （Lite版不支持）
-
-维基百科：https://zh.wikipedia.org/ （Lite版不支持）
-
-Medium：https://medium.com/ （Lite版不支持）
-
-Yahoo：https://www.yahoo.com/ （Lite版不支持）
-
-Flickr：https://www.flickr.com/ （Lite版不支持）
-
-Tumblr：https://www.tumblr.com/ （Lite版不支持）
-
 Pinterest：https://www.pinterest.com/ 
 
-Vimeo：https://vimeo.com/ （Lite版不支持）
 
 #### 四、其它二次元网站
 
@@ -51,8 +32,6 @@ WIKIWIKI.jp：http://wikiwiki.jp/
 動漫花園：http://share.dmhy.org/
 
 pixiv：https://www.pixiv.net/
-
-Getchu：http://www.getchu.com/ （Lite版不支持）
 
 LINE LIVE：https://live.line.me/
 
@@ -86,16 +65,6 @@ Internet Archive：https://archive.org/
 
 DeviantArt：www.deviantart.com/
 
-#### 八、网络存储类网站
-
-Dropbox：https://www.dropbox.com/ （Lite版不支持）
-
-OneDrive：https://onedrive.live.com/ （Lite版不支持）
-
-MediaFire：https://www.mediafire.com/ （Lite版不支持）
-
-uploader.jp：http://uploader.jp/ （Lite版不支持）
-
 #### 九、购物类网站
 
 Nordstrom：http://shop.nordstrom.com/
@@ -103,12 +72,6 @@ Nordstrom：http://shop.nordstrom.com/
 #### 十、音乐类网站
 
 SoundCloud：https://soundcloud.com/
-
-#### 十一、媒体类网站
-
-The Economist：http://www.economist.com/ （Lite版不支持）
-
-Bloomberg：https://www.bloomberg.com/ （Lite版不支持）
 
 #### 十二、游戏相关网站
 
