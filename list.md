@@ -76,8 +76,6 @@ SoundCloud：https://soundcloud.com/
 
 #### 十二、游戏相关网站
 
-Twitch：https://www.twitch.tv/
-
 巴哈姆特：https://www.gamer.com.tw/
 
 Miniclip：https://www.miniclip.com/
