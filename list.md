@@ -1,8 +1,6 @@
 # 午安浏览器支持网站列表
 
-
-
-#### 一、Google及旗下网站（G+除外）
+#### 一、Google旗下除G+外的网站
 
 谷歌：https://www.google.com/#hl=zh-cn
 
@@ -18,13 +16,21 @@ Gmail：https://mail.google.com/
 
 文豪与炼金术师：http://www.dmm.com/netgame_s/bungo/
 
-#### 三、海外知名网站
-
-Instagram：https://www.instagram.com/
+#### 三、设计类网站
 
 Pinterest：https://www.pinterest.com/ 
 
-#### 四、其它二次元网站
+Behance：https://www.behance.net/
+
+Shutterstock：https://www.shutterstock.com/zh/
+
+Sketch App Sources：https://www.sketchappsources.com/
+
+Flickr：https://www.flickr.com/
+
+Proko：http://www.proko.com/
+
+#### 四、二次元网站
 
 niconico：http://www.nicovideo.jp/
 
@@ -34,13 +40,9 @@ WIKIWIKI.jp：http://wikiwiki.jp/
 
 pixiv：https://www.pixiv.net/
 
-LINE LIVE：https://live.line.me/
-
-LINE BLOG：https://www.lineblog.me/
-
 SauceNAO：https://saucenao.com/
 
-#### 五、技术开发相关网站
+#### 五、技术开发类网站
 
 GitHub：https://github.com/
 
@@ -62,25 +64,31 @@ Coursera：https://zh.coursera.org/
 
 Internet Archive：https://archive.org/
 
-#### 七、艺术类网站：
-
-DeviantArt：www.deviantart.com/
-
-#### 九、购物类网站
-
-Nordstrom：http://shop.nordstrom.com/
-
-#### 十、音乐类网站
+#### 七、音乐类网站
 
 SoundCloud：https://soundcloud.com/
 
-#### 十二、游戏相关网站
+#### 八、游戏类网站
+
+Twitch：https://www.twitch.tv/
 
 巴哈姆特：https://www.gamer.com.tw/
 
 Miniclip：https://www.miniclip.com/
 
-#### 十三、配置文件&CDN
+Garena LIVE：https://garena.live/
+
+#### 九、娱乐类网站
+
+LINE LIVE：https://live.line.me/
+
+Let's play Mgoon：http://www.mgoon.com/
+
+#### 十、购物类网站
+
+Nordstrom：http://shop.nordstrom.com/
+
+#### 十一、配置文件&CDN
 
 adblockplus.org
 
