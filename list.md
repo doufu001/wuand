@@ -64,6 +64,8 @@ Coursera：https://zh.coursera.org/
 
 Internet Archive：https://archive.org/
 
+Sci-Hub：http://sci-hub.tw/
+
 #### 七、音乐类网站
 
 SoundCloud：https://soundcloud.com/
