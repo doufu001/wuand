@@ -20,6 +20,8 @@ Gmail：https://mail.google.com/
 
 Pinterest：https://www.pinterest.com/ 
 
+Instagram：https://www.instagram.com/?hl=zh-cn
+
 Behance：https://www.behance.net/
 
 Shutterstock：https://www.shutterstock.com/zh/
