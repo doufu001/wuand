@@ -1,5 +1,9 @@
 # 午安浏览器支持网站列表
 
+如果你想访问的网站不在以下列表中，可以访问https://docs.google.com/forms/d/e/1FAIpQLSe5Br57c-62vI2aj2yHPvGFWeyxn6iNKUZ_fncFBGfyjYagLg/viewform 申请添加。
+
+更新时间：2018/8/26
+
 #### 一、Google旗下除G+外的网站
 
 谷歌：https://www.google.com/#hl=zh-cn
@@ -10,9 +14,15 @@ Gmail：https://mail.google.com/
 
 #### 二、DMM及旗下网页游戏
 
-舰队Collection：http://www.dmm.com/netgame_s/kancolle/
+艦隊これくしょん：http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
 
-刀剑乱舞：http://www.dmm.com/netgame_s/tohken/
+刀剣乱舞-ONLINE：http://pc-play.games.dmm.com/play/tohken/
+
+千年戦争アイギス：http://pc-play.games.dmm.com/play/aigisc/
+
+御城プロジェクト:RE：http://pc-play.games.dmm.com/play/oshirore/
+
+一血卍傑-ONLINE：http://pc-play.games.dmm.com/play/icchibanketu/
 
 文豪与炼金术师：http://www.dmm.com/netgame_s/bungo/
 
@@ -32,6 +42,8 @@ Flickr：https://www.flickr.com/
 
 Proko：http://www.proko.com/
 
+TinEye Reverse Image Search：https://www.tineye.com/
+
 #### 四、二次元网站
 
 niconico：http://www.nicovideo.jp/
@@ -43,6 +55,12 @@ WIKIWIKI.jp：http://wikiwiki.jp/
 pixiv：https://www.pixiv.net/
 
 SauceNAO：https://saucenao.com/
+
+KADOKAWAオフィシャルサイト：https://www.kadokawa.co.jp/
+
+グランブルーファンタジー：http://granbluefantasy.jp/
+
+ウィキペディア（Wikipedia）：https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
 #### 五、技术开发类网站
 
@@ -60,6 +78,8 @@ Python：https://www.python.org/
 
 GitBook：https://www.gitbook.com/
 
+TensorFlow：https://www.tensorflow.org/?hl=zh-cn
+
 #### 六、教育类网站
 
 Coursera：https://zh.coursera.org/
@@ -67,6 +87,12 @@ Coursera：https://zh.coursera.org/
 Internet Archive：https://archive.org/
 
 Sci-Hub：http://sci-hub.tw/
+
+Library Genesis：http://gen.lib.rus.ec/
+
+PMC - NCBI - NIH：https://www.ncbi.nlm.nih.gov/pmc/
+
+Quora：https://www.quora.com/
 
 #### 七、音乐类网站
 
@@ -82,15 +108,23 @@ Miniclip：https://www.miniclip.com/
 
 Garena LIVE：https://garena.live/
 
+Humble Bundle：https://www.humblebundle.com/
+
+Steam Community：https://steamcommunity.com/
+
 #### 九、娱乐类网站
 
 LINE LIVE：https://live.line.me/
 
 Let's play Mgoon：http://www.mgoon.com/
 
+BT之家：http://www.btbtt.co/
+
 #### 十、购物类网站
 
 Nordstrom：http://shop.nordstrom.com/
+
+アマゾン: Amazon：https://www.amazon.co.jp/
 
 #### 十一、配置文件&CDN
 
@@ -103,3 +137,5 @@ akamaihd.net
 amazonaws.com
 
 cloudfront.net
+
+cloudflare.com
