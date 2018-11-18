@@ -1,6 +1,6 @@
 # 午安浏览器支持网站列表
 
-如果你想访问的网站不在以下列表中，可以访问https://docs.google.com/forms/d/e/1FAIpQLSe5Br57c-62vI2aj2yHPvGFWeyxn6iNKUZ_fncFBGfyjYagLg/viewform 申请添加。
+如果你想访问的网站不在以下列表中，可以访问 https://docs.google.com/forms/d/e/1FAIpQLSe5Br57c-62vI2aj2yHPvGFWeyxn6iNKUZ_fncFBGfyjYagLg/viewform 申请添加。
 
 更新时间：2018/11/18
 
