@@ -2,7 +2,7 @@
 
 如果你想访问的网站不在以下列表中，可以访问https://docs.google.com/forms/d/e/1FAIpQLSe5Br57c-62vI2aj2yHPvGFWeyxn6iNKUZ_fncFBGfyjYagLg/viewform 申请添加。
 
-更新时间：2018/10/8
+更新时间：2018/11/18
 
 #### 一、Google旗下除G+外的网站
 
@@ -44,6 +44,10 @@ Proko：http://www.proko.com/
 
 TinEye Reverse Image Search：https://www.tineye.com/
 
+Depositphotos：https://cn.depositphotos.com/
+
+iStock：https://www.istockphoto.com/hk
+
 #### 四、二次元网站
 
 niconico：http://www.nicovideo.jp/
@@ -80,7 +84,9 @@ GitBook：https://www.gitbook.com/
 
 TensorFlow：https://www.tensorflow.org/?hl=zh-cn
 
-#### 六、教育类网站
+Postman：https://www.getpostman.com/
+
+#### 六、教育&科研类网站
 
 Coursera：https://zh.coursera.org/
 
@@ -93,6 +99,10 @@ Library Genesis：http://gen.lib.rus.ec/
 PMC - NCBI - NIH：https://www.ncbi.nlm.nih.gov/pmc/
 
 Quora：https://www.quora.com/
+
+Bioconductor：https://www.bioconductor.org/
+
+goo辞書：https://dictionary.goo.ne.jp/
 
 #### 七、音乐类网站
 
@@ -125,6 +135,8 @@ BT之家：http://www.btbtt.co/
 Nordstrom：http://shop.nordstrom.com/
 
 アマゾン: Amazon：https://www.amazon.co.jp/
+
+Sierra Trading Post：https://www.sierratradingpost.com/
 
 #### 十一、云存储类网站
 
