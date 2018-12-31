@@ -26,6 +26,8 @@ Gmail：https://mail.google.com/
 
 文豪与炼金术师：http://www.dmm.com/netgame_s/bungo/
 
+あんさんぶるスターズ！：http://pc-play.games.dmm.com/play/ensemble_stars/
+
 #### 三、设计类网站
 
 Pinterest：https://www.pinterest.com/ 
@@ -66,6 +68,8 @@ KADOKAWAオフィシャルサイト：https://www.kadokawa.co.jp/
 
 ウィキペディア（Wikipedia）：https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
+コミックシーモア：https://www.cmoa.jp/
+
 #### 五、技术开发类网站
 
 GitHub：https://github.com/
@@ -86,6 +90,10 @@ TensorFlow：https://www.tensorflow.org/?hl=zh-cn
 
 Postman：https://www.getpostman.com/
 
+NVIDIA Developer：https://developer.nvidia.com/
+
+Bitbucket：https://bitbucket.org/
+
 #### 六、教育&科研类网站
 
 Coursera：https://zh.coursera.org/
@@ -98,11 +106,11 @@ Library Genesis：http://gen.lib.rus.ec/
 
 PMC - NCBI - NIH：https://www.ncbi.nlm.nih.gov/pmc/
 
-Quora：https://www.quora.com/
-
 Bioconductor：https://www.bioconductor.org/
 
 goo辞書：https://dictionary.goo.ne.jp/
+
+必应：https://www.bing.com/
 
 #### 七、音乐类网站
 
@@ -122,6 +130,8 @@ Humble Bundle：https://www.humblebundle.com/
 
 Steam Community：https://steamcommunity.com/
 
+Minecraft：https://minecraft.net/zh-hans/
+
 #### 九、娱乐类网站
 
 LINE LIVE：https://live.line.me/
@@ -129,6 +139,8 @@ LINE LIVE：https://live.line.me/
 Let's play Mgoon：http://www.mgoon.com/
 
 BT之家：http://www.btbtt.co/
+
+GYAO!：https://gyao.yahoo.co.jp/
 
 #### 十、购物类网站
 
@@ -138,7 +150,7 @@ Nordstrom：http://shop.nordstrom.com/
 
 Sierra Trading Post：https://www.sierratradingpost.com/
 
-#### 十一、云存储类网站
+#### 十一、云存储类网站（Lite版不支持）
 
 Dropbox：https://www.dropbox.com/zh_CN/
 
@@ -148,7 +160,19 @@ MediaFire：https://www.mediafire.com/
 
 uploader.jp：https://uploader.jp/
 
-#### 十二、配置文件&CDN
+#### 十二、其它（Lite版不支持）
+
+Quora：https://www.quora.com/
+
+reddit：https://www.reddit.com/
+
+Readmoo讀墨電子書：https://readmoo.com/
+
+Learning English - BBC：http://www.bbc.co.uk/learningenglish/
+
+APKPure：https://apkpure.com/cn/
+
+#### 十三、配置文件&CDN
 
 adblockplus.org
 
