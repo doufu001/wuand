@@ -1,6 +1,6 @@
 # 午安浏览器测试版支持网站列表
 
-午安浏览器测试版除支持正式版白名单（https://github.com/wuand/wuand/blob/master/list.md ）中的网站外，额外支持下列网站。测试版仅供测试人员使用，用于发布前测试，请勿用于非法用途：
+午安浏览器测试版除支持正式版白名单（https://github.com/wuand/wuand/blob/master/list.md ）中的网站外，额外支持下列网站。测试版仅供测试人员进行发布前测试，请勿用于非法用途：
 
 https://www.youtube.com/?gl=US
 
