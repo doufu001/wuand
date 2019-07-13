@@ -18,9 +18,9 @@ Instagram：https://www.instagram.com/?hl=zh-cn
 
 #### 三、学术科研类网站
 
-维基百科英文版：https://en.wikipedia.org/wiki/Main_Page
+维基百科英文版：https://en.wikipedia.org/
 
-维基百科日文版：https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+维基百科日文版：https://ja.wikipedia.org/
 
 Wikimapia：https://wikimapia.org/
 
