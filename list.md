@@ -1,54 +1,68 @@
 # 午安浏览器支持网站列表
 
-如果你想访问的网站不在以下列表中，可以访问 https://docs.google.com/forms/d/e/1FAIpQLSe5Br57c-62vI2aj2yHPvGFWeyxn6iNKUZ_fncFBGfyjYagLg/viewform 申请添加。
+如果你想访问的网站不在以下列表中，可以访问 https://docs.qq.com/form/fill/DRkNwcE92RE10bkFn 申请添加。
 
-更新时间：2019/6/6
+更新时间：2019/7/13
 
-#### 一、学术科研类网站
+#### 一、Google旗下除快照和新闻外的网站
 
 谷歌：https://www.google.com/#hl=zh-cn
 
 谷歌学术：https://scholar.google.com/?hl=zh-CN
 
+Gmail：https://mail.google.com/
+
+#### 二、社交类网站
+
+Instagram：https://www.instagram.com/?hl=zh-cn
+
+#### 三、学术科研类网站
+
+维基百科英文版：https://en.wikipedia.org/wiki/Main_Page
+
+维基百科日文版：https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+
+Wikimapia：https://wikimapia.org/
+
 Coursera：https://zh.coursera.org/
 
 Internet Archive：https://archive.org/
 
-Sci-Hub：http://sci-hub.tw/
-
-Library Genesis：http://gen.lib.rus.ec/
-
-PMC - NCBI - NIH：https://www.ncbi.nlm.nih.gov/pmc/
-
-Bioconductor：https://www.bioconductor.org/
-
 goo辞書：https://dictionary.goo.ne.jp/
 
-必应：https://www.bing.com/
-
-#### 二、设计类网站
+#### 四、设计类网站
 
 Pinterest：https://www.pinterest.com/ 
 
-Instagram：https://www.instagram.com/?hl=zh-cn
+DeviantArt：https://www.deviantart.com/
 
 Behance：https://www.behance.net/
 
-Shutterstock：https://www.shutterstock.com/zh/
+ArtStation：https://www.artstation.com/
 
-Sketch App Sources：https://www.sketchappsources.com/
+#### 五、DMM及旗下网页游戏
 
-Flickr：https://www.flickr.com/
+艦隊これくしょん：http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
 
-Proko：http://www.proko.com/
+刀剣乱舞-ONLINE：http://pc-play.games.dmm.com/play/tohken/
 
-TinEye Reverse Image Search：https://www.tineye.com/
+一血卍傑-ONLINE：http://pc-play.games.dmm.com/play/icchibanketu/
 
-Depositphotos：https://cn.depositphotos.com/
+文豪与炼金术师：http://www.dmm.com/netgame_s/bungo/
 
-iStock：https://www.istockphoto.com/hk
+#### 六、二次元网站
 
-#### 三、技术研发类网站
+niconico：http://www.nicovideo.jp/
+
+WIKIWIKI.jp：http://wikiwiki.jp/
+
+動漫花園：http://share.dmhy.org/
+
+pixiv：https://www.pixiv.net/
+
+グランブルーファンタジー：http://granbluefantasy.jp/
+
+#### 七、技术研发类网站
 
 GitHub：https://github.com/
 
@@ -60,15 +74,52 @@ Android：https://www.android.com/
 
 Go：https://golang.org/
 
-Python：https://www.python.org/
-
 GitBook：https://www.gitbook.com/
 
 TensorFlow：https://www.tensorflow.org/?hl=zh-cn
 
-Postman：https://www.getpostman.com/
+#### 八、音乐类网站
 
-NVIDIA Developer：https://developer.nvidia.com/
+SoundCloud：https://soundcloud.com/
 
-Bitbucket：https://bitbucket.org/
+Spotify：https://www.spotify.com/
 
+#### 九、游戏类网站
+
+Twitch：https://www.twitch.tv/
+
+Steam Community：https://steamcommunity.com/
+
+#### 十、娱乐类网站
+
+Netflix：https://www.netflix.com/
+
+Mgoon：http://www.mgoon.com/
+
+GYAO!：https://gyao.yahoo.co.jp/
+
+#### 十一、购物类网站
+
+Nordstrom：http://shop.nordstrom.com/
+
+日本亚马逊：https://www.amazon.co.jp/
+
+Sierra Trading Post：https://www.sierratradingpost.com/
+
+#### 十二、其它
+
+Quora：https://www.quora.com/
+
+APKPure：https://apkpure.com/cn/
+
+#### 十三、配置文件&CDN
+
+adblockplus.org
+
+greasyfork.org
+
+akamaihd.net
+
+amazonaws.com
+
+cloudfront.net
