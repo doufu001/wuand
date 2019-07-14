@@ -48,7 +48,7 @@ ArtStation：https://www.artstation.com/
 
 一血卍傑-ONLINE：http://pc-play.games.dmm.com/play/icchibanketu/
 
-文豪与炼金术师：http://www.dmm.com/netgame_s/bungo/
+文豪与炼金术师：http://pc-play.games.dmm.com/play/bungo/
 
 #### 六、二次元网站
 
