@@ -54,11 +54,11 @@ ArtStation：https://www.artstation.com/
 
 niconico：http://www.nicovideo.jp/
 
+pixiv：https://www.pixiv.net/
+
 WIKIWIKI.jp：http://wikiwiki.jp/
 
-動漫花園：http://share.dmhy.org/
-
-pixiv：https://www.pixiv.net/
+動漫花園：https://www.dmhy.org/
 
 グランブルーファンタジー：http://granbluefantasy.jp/
 
