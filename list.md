@@ -104,7 +104,7 @@ Nordstrom：http://shop.nordstrom.com/
 
 日本亚马逊：https://www.amazon.co.jp/
 
-Sierra Trading Post：https://www.sierratradingpost.com/
+Sierra Trading Post：https://www.sierra.com/
 
 #### 十二、其它
 
@@ -123,3 +123,5 @@ akamaihd.net
 amazonaws.com
 
 cloudfront.net
+
+fastly.net
