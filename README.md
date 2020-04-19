@@ -4,4 +4,4 @@
 
 从北京发往德国
 
-“Across the Great Wall we can reach every corner in the world.Across the Great Wall we can reach every corner in the world.”
+“Across the Great Wall we can reach every corner in the world.”
